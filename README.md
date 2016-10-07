@@ -35,7 +35,7 @@ keys in modules prior to deployment.
 ## API
 
 ``` javascript
-StringReplacePlugin([nextLoaders: string], options, [prevLoaders: string])
+StringReplacePlugin.replace([nextLoaders: string], options, [prevLoaders: string])
 ```
 
 * `nextLoaders` loaders to follow the replacement
